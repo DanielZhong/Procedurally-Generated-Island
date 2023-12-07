@@ -1,8 +1,8 @@
-# Islands Generation
+# Procedural Islands Generation(Wave Function Collapse)
 
 Members: Xiaoxiao(Crystal) Zou, Keyu Lu, Ruijun(Daniel) Zhong
 
-## Final Submission: 
+## Demo: 
 ![](./output2.png)
 https://drive.google.com/file/d/15XKgZ8FEwGIWtTHlS1ptps_W34qz6Zf_/view?usp=sharing
 
@@ -20,7 +20,7 @@ We are working on an advanced procedural graphics project that skillfully combin
 
 **Cloud Simulation:** We used Houdini's metaballs to create dynamic cloud simulations, lending a fluid and lifelike quality to our clouds. By applying a combination of noises and cloud nodes, each cloud gained a realistic texture. The clouds are animated to demonstrate natural behaviors like collisions and merging, contributing to the environmental realism. This procedural approach allows the clouds to move organically around the island, enhancing the scene's dynamic feel.
 
-**Map:** Our map generation process started with designing a pattern texture in Photoshop. This texture served as a foundation for the wave function collapse node in Houdini, allowing us to generate a variety of similar yet distinct map patterns procedurally. This technique resulted in a diverse range of maps, each featuring unique island shapes and sizes, adding depth and variety to our project’s landscape.
+**Map(Wave Function Collapse):** Our map generation process started with designing a pattern texture in Photoshop. This texture served as a foundation for the wave function collapse node in Houdini, allowing us to generate a variety of similar yet distinct map patterns procedurally. This technique resulted in a diverse range of maps, each featuring unique island shapes and sizes, adding depth and variety to our project’s landscape.
 
 **Island:** In crafting the islands, we employed Houdini's advanced procedural techniques to sculpt realistic terrains. This involved using noise algorithms and distancing for terrain bottoms, and the Houdini brush tool to generate elevation for terrain top geometries, ensuring each island had its own distinct character. We focused on details such as elevation variations,  and integrating natural features like grass and vines to imbue each island with a sense of authenticity and detail.
 
